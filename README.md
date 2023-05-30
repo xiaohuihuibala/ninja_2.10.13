@@ -14,6 +14,10 @@
 
 仓库地址：https://github.com/huiyi9420/ninja
 
+感谢：@licklly
+
+仓库地址：https://github.com/licklly/kingrom_ninja
+
 ## 新
 
 当前：增加备用接口（针对某些半黑号）
